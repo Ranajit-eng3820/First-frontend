@@ -1,0 +1,24 @@
+
+
+
+html,body{
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+/*CSS variables*/
+
+:root{
+    --primary-color:#4458dc;
+    --primary-color2:rgb(238, 76, 238);
+    --title-color:#141313;
+    --text-color:#777777;
+    --broder-color:rgb(36, 36, 36);
+    --gradient-color:liear-gradient(90deg,rgb(52, 26, 85) 0%,purple 100%);
+    --shadow-color: opx 10px 30px rgb(61, 47, 32);
+    --box-shadow:5px 5px 8px 0px #8888887a;
+
+    --roboto: 'Roboto',cursive;
+}
